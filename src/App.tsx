@@ -34,9 +34,6 @@ function App() {
     setDarkMode(checked);
   };
 
-  // TODO:
-    // add backend connection and functionality -- get it all working and go from there
-
   return (
 
     <div className="min-h-screen bg-gray-50 flex flex-col items-center p-8">
